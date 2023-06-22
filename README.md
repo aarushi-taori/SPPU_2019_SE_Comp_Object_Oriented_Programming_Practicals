@@ -21,7 +21,8 @@ Practical 5 : Write a function template for selection sort that inputs, sorts an
 
 **GROUP - C**
 
-Practical 6 : Write C++ program using STL for sorting and searching user defined records such as personal records (Name, DOB, Telephone number etc) using vector container.
+Practical 6 : Write C++ program using STL for sorting and searching user defined records such as Item records (Item code, name, cost, quantity etc) using vector container.
+
 
 
 
